@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\obj\Debug\netcoreapp3.0\LearningAutoProperties.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\obj\Debug\netcoreapp3.0\LearningAutoProperties.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.exe
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.deps.json
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.dll
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\bin\Debug\netcoreapp3.0\LearningAutoProperties.pdb
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\obj\Debug\netcoreapp3.0\LearningAutoProperties.dll
+C:\Users\Jason\source\repos\LearningAutoProperties\LearningAutoProperties\obj\Debug\netcoreapp3.0\LearningAutoProperties.pdb
